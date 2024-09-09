@@ -1,4 +1,4 @@
-###Timer
+<h1>Timer</h1>
 
 Um timer simples para não esquecer de bater o ponto no trabalho.
 
